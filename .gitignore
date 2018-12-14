@@ -1,3 +1,8 @@
 # dependencies
 **/node_modules
 .vscode/
+**/public
+**/script
+**/src
+package.json/
+yarn.lock
